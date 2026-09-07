@@ -11,7 +11,7 @@
 
 ---
 
-## 🧭 Nuestro Manifiesto
+## 🧭 ¿Quiénes somos?
 
 🤝 **Somos una comunidad autónoma** en donde empresarios y desarrolladores nos encontramos para compartir ideas, potenciar proyectos y sentar las bases que sostendrán a las futuras generaciones de emprendedores de la región.
 
