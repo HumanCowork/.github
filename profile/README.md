@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Recursos & Ecosistema Abierto
+## 🛠️ Recursos
 
 - 🚀 **[`awesome-human-cowork`](https://github.com/HumanCowork/awesome-human-cowork):** Nuestro banco público y colaborativo de skills para agentes de IA, prompts testeados en batalla, automatizaciones de N8N y plantillas operativas de trabajo.
 
