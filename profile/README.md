@@ -31,11 +31,11 @@
 
 ## 🛠️ Ecosistema & Recursos Abiertos
 
-Te invitamos a explorar nuestra biblioteca comunitaria de herramientas, probadas en batalla por agencias y desarrolladores de Córdoba:
+Te invitamos a explorar nuestra biblioteca comunitaria de herramientas, probadas por agencias y desarrolladores de Córdoba:
 
 👉 **[Entrar a awesome-human-cowork](https://github.com/HumanCowork/awesome-human-cowork)**
 
-- 🧠 **Skills para Agentes:** Convenciones y herramientas para Antigravity IDE, Cursor y agentes autónomos.
+- 🧠 **Skills:** Convenciones y herramientas para Antigravity IDE, Cursor y agentes autónomos.
 - 💬 **Prompts:** Prompts técnicos para arquitectura, code review y ventas para agencias.
 - ⚙️ **Automatizaciones:** Flujos `.json` de scraping, captación y operaciones listos para desplegar.
 - 📋 **Plantillas Operativas:** Fichas y guías prácticas para dinámicas de colaboración.
