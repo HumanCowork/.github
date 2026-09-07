@@ -1,6 +1,6 @@
-# 👋 ¡Bienvenidos a Human Cowork!
+# 👋 ¡Bienvenidos a Human Cowork | Comunidad de Desarrolladores!
 
-> **Hub Tecnológico de Inteligencia Artificial & Polo de Colaboración en Red**  
+> **Comunidad Autónoma de Emprendedores en Desarrollo & Futuro Hub Tecnológico de Inteligencia Artificial**  
 > 📍 Córdoba Capital, Argentina  
 
 [![Comunidad](https://img.shields.io/badge/Comunidad-Human%20Cowork-brightgreen)](https://github.com/HumanCowork)
