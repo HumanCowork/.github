@@ -15,15 +15,15 @@
 
 🤝 **Somos una comunidad autónoma** en donde empresarios y desarrolladores nos encontramos para compartir ideas, potenciar proyectos y sentar las bases que sostendrán a las futuras generaciones de emprendedores de la región.
 
-🏗️ **Creamos este espacio colaborativo** para construir un punto de apoyo donde aprender juntos a aprovechar el momento que vivimos.
+- **Creamos este espacio colaborativo** para construir un punto de apoyo donde aprender juntos a aprovechar el momento que vivimos.
 
-🤖 **Estamos atravesando un cambio de época** impulsado por la inteligencia artificial, un nuevo paradigma que está redefiniendo cómo se piensa, se gestiona y se escala cualquier iniciativa.
+- **Estamos atravesando un cambio de época** impulsado por la inteligencia artificial, un nuevo paradigma que está redefiniendo cómo se piensa, se gestiona y se escala cualquier iniciativa.
 
-🎯 **Esta transformación interpela a todo aquel que esté construyendo un proyecto:** la clave está en apoyarse en estas nuevas capacidades sin perder el criterio, la visión estratégica y la perspectiva humana que realmente marcan la diferencia.
+- **Esta transformación interpela a todo aquel que esté construyendo un proyecto:** la clave está en apoyarse en estas nuevas capacidades sin perder el criterio, la visión estratégica y la perspectiva humana que realmente marcan la diferencia.
 
-🌐 **Es justamente ahí donde se plantea Human Cowork:** como esa red de confianza donde el valor real surge de poner ese potencial en acción, resolviendo desafíos codo a codo y sumando la mirada de diversas áreas y disciplinas.
+- **Es justamente ahí donde se plantea Human Cowork:** como esa red de confianza donde el valor real surge de poner ese potencial en acción, resolviendo desafíos codo a codo y sumando la mirada de diversas áreas y disciplinas.
 
-🚀 **El talento de nuestra región tiene todo para liderar;** solo hacía falta el entorno adecuado para encontrarnos y multiplicar el impacto.
+- **El talento de nuestra región tiene todo para liderar;** solo hacía falta el entorno adecuado para encontrarnos y multiplicar el impacto.
 
 💡 **Si estás emprendiendo, liderando un proyecto o explorando nuevas formas de crear valor, te damos la bienvenida a la comunidad.**
 
