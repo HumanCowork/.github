@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HumanCowork/.github/main/assets/hero.svg" width="100%" alt="Human Cowork — Hub Tecnológico de IA & Red de Colaboración" />
+  <img src="https://raw.githubusercontent.com/HumanCowork/.github/main/assets/hero.svg" width="100%" alt="Human Cowork — Comunidad autónoma de emprendedores en desarrollo" />
 </p>
 
 <p align="center">
@@ -36,8 +36,8 @@ Te invitamos a explorar nuestra biblioteca comunitaria de herramientas, probadas
 👉 **[Entrar a awesome-human-cowork](https://github.com/HumanCowork/awesome-human-cowork)**
 
 - 🧠 **Skills para Agentes:** Convenciones y herramientas para Antigravity IDE, Cursor y agentes autónomos.
-- 💬 **Banco de Prompts:** Prompts técnicos para arquitectura, code review y ventas para agencias.
-- ⚙️ **Automatizaciones N8N:** Flujos `.json` de scraping, captación y operaciones listos para desplegar.
+- 💬 **Prompts:** Prompts técnicos para arquitectura, code review y ventas para agencias.
+- ⚙️ **Automatizaciones:** Flujos `.json` de scraping, captación y operaciones listos para desplegar.
 - 📋 **Plantillas Operativas:** Fichas y guías prácticas para dinámicas de colaboración.
 
 ---
