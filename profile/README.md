@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HumanCowork/.github/main/assets/banner.jpg" alt="Human Cowork" width="260" />
+  <img src="https://raw.githubusercontent.com/HumanCowork/.github/main/assets/banner.jpg" alt="Human Cowork" width="100%" />
 </p>
 
 <h1 align="center">👋 ¡Bienvenidos a Human Cowork!</h1>
