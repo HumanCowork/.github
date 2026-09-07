@@ -44,7 +44,9 @@ Te invitamos a explorar nuestra biblioteca comunitaria de herramientas, probadas
 
 ## 📬 Conectá con la Comunidad
 
+- ☎️​ **Discord:** [Human Cowork](https://discord.gg/BXcWzan8x)
 - 📸 **Instagram:** [@humancoworkcba](https://instagram.com/humancoworkcba)
+- 👨‍💻​ **Linkedin:** [Human Cowork](https://www.linkedin.com/in/humancowork/)
 - 💻 **GitHub:** Explorá nuestros recursos abiertos y sumá tus aportes mediante Pull Requests.
 
 ---
