@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/HumanCowork"><img src="https://img.shields.io/badge/Comunidad-Human%20Cowork-0284C7?style=flat-square" alt="Comunidad" /></a>
   <a href="https://github.com/HumanCowork/awesome-human-cowork"><img src="https://img.shields.io/badge/Awesome-Recursos%20&%20Skills-38BDF8?style=flat-square" alt="Awesome Human Cowork" /></a>
+  <a href="https://discord.gg/BXcWzan8x"><img src="https://img.shields.io/badge/Discord-Human%20Cowork-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Human Cowork" /></a>
   <a href="https://instagram.com/humancoworkcba"><img src="https://img.shields.io/badge/Instagram-@humancoworkcba-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://img.shields.io/badge/Origen-C%C3%B3rdoba%2C%20Argentina-1E293B?style=flat-square" alt="Córdoba Argentina" />
 </p>
